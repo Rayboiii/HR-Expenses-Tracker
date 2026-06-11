@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(New-Item -ItemType Directory -Force \"c:\\\\Users\\\\LiewZN\\\\my-app\\\\server\\\\api\\\\users\")",
-      "Bash(Out-Null)"
-    ]
-  }
-}
